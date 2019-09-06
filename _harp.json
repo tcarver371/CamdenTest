@@ -1,0 +1,22 @@
+{   "globals":{
+
+        "game1":{
+         "title":"The Legend of Zelda: Ocarina of Time",
+         "image": "images/OOT.jpg"
+
+   },
+        "game2":{
+            "title":"Super Mario 64",
+            "image":"images/SM64.jpg"
+
+   },
+        "game3":{
+            "title":"Modern Warfare 3",
+            "image":"images/MW3.JPG"
+   },
+        "game4":{
+            "title":"Resident Evil 4",
+            "image": "images/RE4.JPG"
+        }
+    }
+}

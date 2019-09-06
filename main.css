@@ -1,0 +1,27 @@
+#header{
+    font-size: 180%;
+    color: white;
+}
+#zelda{
+    font-size: 150%;
+    font-weight: bold;
+    color: white;
+}
+#mario{
+    font-size: 150%;
+    font-weight: bold;
+    color: white;
+}
+#MW3{
+    font-size: 150%;
+    font-weight: bold;
+    color: white;
+}
+#RE4{
+    font-size: 150%;
+    font-weight: bold;
+    color: white;
+}
+body{
+    background: url(https://wallpapercave.com/wp/gmqI1si.jpg) repeat center top;
+}
